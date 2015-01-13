@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.zcup.display.MovieClipz"/>
+    <classEntry path="com.zcup.display.TimeLine"/>
+    <classEntry path="com.zcup.core.net.remote.IService"/>
+    <classEntry path="com.zcup.core.net.remote.IResponder"/>
+    <classEntry path="com.zcup.core.net.remote.AbstractRemoteService"/>
+    <classEntry path="com.zcup.core.net.remote.Result"/>
+    <classEntry path="com.zcup.core.net.service.ServiceFactory"/>
+    <classEntry path="com.zcup.core.log.LoggerEvent"/>
+    <classEntry path="com.zcup.display.BitmapMovie"/>
+    <classEntry path="com.zcup.utils.ClassRegister"/>
+    <classEntry path="com.zcup.utils.ObjectTranslator"/>
+    <classEntry path="com.zcup.timer.TimerCenter"/>
+    <classEntry path="com.zcup.loader.BitmapLoader"/>
+    <classEntry path="com.rpg.map.MapImage"/>
+    <classEntry path="com.zcup.timer.TimerManager"/>
+    <classEntry path="com.zcup.display.BaseSprite"/>
+    <classEntry path="com.zcup.loader.LoaderEx"/>
+    <classEntry path="com.zcup.display.movie.AbstractBitmapMovie"/>
+    <classEntry path="com.zcup.loader.BatchLoaderEx"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
